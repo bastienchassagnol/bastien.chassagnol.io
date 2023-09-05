@@ -1,3 +1,3 @@
-# statomique-quarto-website
+# StatOmique website
 
 Quarto website for StatOmique group
