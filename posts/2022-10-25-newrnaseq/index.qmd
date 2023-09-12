@@ -5,6 +5,7 @@ date: '2022-10-25'
 slug: newrnaseq
 categories: [workshop]
 tags: [rnaseq]
+image: "../../media/StatOmique_reseau_logo.jpg"
 ---
 
 Au programme, quelques nouveautés autour de l'analyse de données RNASeq : inter-espèces, détection d'éléments aberrants, déconvolution robuste, ... mais aussi cribles génétiques CRISPR-Cas9.

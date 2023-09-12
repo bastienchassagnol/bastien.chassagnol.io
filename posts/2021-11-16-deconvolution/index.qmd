@@ -5,6 +5,7 @@ date: '2021-11-16'
 slug: deconvolution
 categories: [workshop]
 tags: []
+image: "../../media/StatOmique_reseau_logo.jpg"
 ---
 
 Un peu de biblio et quelques outils autour de la sélection de variables pour les données en grande dimension et les méthodes de déconvolution .

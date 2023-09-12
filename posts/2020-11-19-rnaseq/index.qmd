@@ -3,6 +3,7 @@ date: "2020-11-19T21:49:57-07:00"
 lang: fr
 title: Analyse de données transcriptomiques
 categories: [webinar]
+image: "../../media/StatOmique_reseau_logo.jpg"
 ---
 
 C. Le Priol et M.-L. Martin-Magniette nous ont présenté respectivement des méthodes d'identification de différence de variance dans des données RNA-Seq et l'outil {DiCoExpress}.
