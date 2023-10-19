@@ -15,7 +15,7 @@ Le GDR BioInformatique Moléculaire organise des [journées du **20 au 24 novemb
 
 ## Journée StatOmique le 21 novembre
 
-Dans l'esprit d'échange et de partage cher à StatOmique, les contributions prendrons différentes formes de la communication orale classique ou très informelle en passant par un tutoriel et une session poster.
+Dans l'esprit d'échange et de partage cher à StatOmique, les contributions prendront différentes formes de la communication orale classique ou très informelle en passant par un tutoriel et une session poster.
 
 ### Invités
 
@@ -61,7 +61,7 @@ Résumé : The Fragile X-Syndrome (FXS) represents the most common inherited for
 
 Julie Aubert, Marie-Agnès Dillies, Christelle Hennequet-Antier, Guillemette Marot
 
-#### Informations pratiques
+### Informations pratiques
 
 ::: {.callout-caution appearance="simple" icon="false"}
 **Inscriptions** : Elles sont ouvertes jusqu'au 8 novembre. [C'est par ici](https://forms.cristal.fr/view.php?id=24710).
