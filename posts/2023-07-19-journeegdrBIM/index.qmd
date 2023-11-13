@@ -31,8 +31,12 @@ Dans l'esprit d'échange et de partage cher à StatOmique, les contributions pre
 
 -   10h Introduction
 
--   10h15-12h15 Arnaud Gloaguen (Centre National de Recherche en Génomique Humaine, Institut François Jacob, CEA, Université Paris-Saclay), **Regularized Generalized Canonical Correlation Analysis (RGCCA), a flexible framework for multiblock (and multiway) data analysis: case
-study on a cohort of Major Depressive Disorder (MDD) patients and controls**. 
+-   10h15-12h15 Arnaud Gloaguen (Centre National de Recherche en Génomique Humaine, Institut François Jacob, CEA, Université Paris-Saclay), **Regularized Generalized Canonical Correlation Analysis (RGCCA), a flexible framework for multiblock (and multiway) data analysis: case study on a cohort of Major Depressive Disorder (MDD) patients and controls**.
+
+::: {.callout-note appearance="simple" icon="false"}
+Pré-requis : Pensez à installer les packages nécessaires et télécharger les données si vous souhaitez suivre le tutoriel en direct.
+Toutes les infos [ici](https://github.com/AGloaguen/RGCCA4Statomique)
+:::
 
 -   12h15-12h30 Estelle Chatelain, **Intégration de données omiques sur une cohorte de patients obèses/diabétiques**, retour d'expériences d'utilisation de `MixOmics::DIABLO` et `rgcca`.
 
@@ -40,7 +44,12 @@ study on a cohort of Major Depressive Disorder (MDD) patients and controls**.
 Résumé : Nous avons appliqué `{mixOmics}` aux données de la cohorte de patients obèses ABOS. Pour 108 patients de cette cohorte, nous disposons des données transcriptomiques du foie issues de puces à ADN (\~23K variables), de données métabolomiques (\~1,4K variables) et de données lipidomiques (\~800 variables). Nous avons testé la méthode `DIABLO` de `{mixOmics}` et la version shiny du package `{RGCCA}` développée par l'IFB. Nous présenterons de manière informelle les différences de visualisation entre ces deux packages.
 :::
 
--   **12h30 - 14h30 Pause déjeuner et Session posters** (venez avec le vôtre, nous contacter pour la logistique)
+-   **12h30 - 14h30 Pause déjeuner et Session posters**
+
+::: {.callout-note appearance="simple" icon="false"}
+Posters : venez avec le vôtre, qu'il soit nouveau ou déjà présenté par ailleurs, sur un travail en cours/passé, une activité plateforme, un groupe de travail, ... 
+Merci de nous contacter pour la logistique.
+:::
 
 -   14h30-15h30 Etienne Thévenot (CEA, INRAE, Université Paris-Saclay, MetaboHUB), **Sciences des données métabolomiques pour la santé**
 
@@ -67,9 +76,9 @@ Julie Aubert, Marie-Agnès Dillies, Christelle Hennequet-Antier, Guillemette Mar
 ### Informations pratiques
 
 ::: {.callout-caution appearance="simple" icon="false"}
-**Inscriptions** : Elles sont ouvertes jusqu'au 8 novembre. [C'est par ici](https://forms.cristal.fr/view.php?id=24710).
-
 **Lieu** : La journée StatOmique se tiendra sur le site Inria, 40 avenue Halley, 59650 Villeneuve d'Ascq
+
+**Merci de vous présenter avec une pièce d'identité au bâtiment A en arrivant.**
 
 **Comment venir ?** Le métro le plus proche est **4 Cantons Grand Stade (Villeneuve d'Ascq)**. La ligne 1 est directe depuis la gare Lille Flandres. Compter ensuite 15 minutes à pied. Pour préparer votre itinéraire : <https://www.ilevia.fr/>
 :::
