@@ -2,7 +2,7 @@
 title: Journées du GDR BIM
 lang: fr
 author: ''
-date: '2023-07-19'
+date: '2023-11-21'
 slug: journeegdrBIM
 categories: [workshop]
 tags: [transcriptomique, mutli-omiques, données manquantes]
@@ -15,7 +15,7 @@ Le GDR BioInformatique Moléculaire organise des [journées du **20 au 24 novemb
 
 ## Journée StatOmique le 21 novembre
 
-Dans l'esprit d'échange et de partage cher à StatOmique, les contributions prendront différentes formes de la communication orale classique ou très informelle en passant par un tutoriel et une session poster.
+Dans l'esprit d'échange et de partage cher à StatOmique, les contributions prennent différentes formes de la communication orale classique ou très informelle en passant par un tutoriel et une session poster.
 
 ### Invités
 
@@ -34,7 +34,7 @@ Dans l'esprit d'échange et de partage cher à StatOmique, les contributions pre
 -   10h15-12h15 Arnaud Gloaguen (Centre National de Recherche en Génomique Humaine, Institut François Jacob, CEA, Université Paris-Saclay), **Regularized Generalized Canonical Correlation Analysis (RGCCA), a flexible framework for multiblock (and multiway) data analysis: case study on a cohort of Major Depressive Disorder (MDD) patients and controls**.
 
 ::: {.callout-note appearance="simple" icon="false"}
-Pré-requis : Pensez à installer les packages nécessaires et télécharger les données si vous souhaitez suivre le tutoriel en direct. Toutes les infos [ici](https://github.com/AGloaguen/RGCCA4Statomique)
+Les supports sont disponibles [ici](#0).
 :::
 
 -   12h15-12h30 Estelle Chatelain, **Intégration de données omiques sur une cohorte de patients obèses/diabétiques**, retour d'expériences d'utilisation de `MixOmics::DIABLO` et `rgcca`.
@@ -45,10 +45,9 @@ Résumé : Nous avons appliqué `{mixOmics}` aux données de la cohorte de patie
 
 -   **12h30 - 14h30 Pause déjeuner et Session posters**
 
-::: {.callout-note appearance="simple" icon="false"}
-Posters : venez avec le vôtre, qu'il soit nouveau ou déjà présenté par ailleurs, sur un travail en cours/passé, une activité plateforme, un groupe de travail, ... Merci de nous contacter pour la logistique.
-:::
-
+```{=html}
+<!-- -->
+```
 -   14h30-15h30 Etienne Thévenot (CEA, INRAE, Université Paris-Saclay, MetaboHUB), **Sciences des données métabolomiques pour la santé**
 
 ::: {.callout-note appearance="simple" icon="false"}
@@ -57,7 +56,7 @@ Résumé : Au cours des 25 dernières années, le couplage des approches de chim
 Nous présenterons ici les travaux récents de l'équipe en termes de traitement du signal, de combinatoire (recherche de sous-graphes fréquents) et d'apprentissage statistique (sélection de variables, intégration multi-modale, apprentissage profond) appliqués au traitement, à l'annotation et à l'analyse haut-débit des données métabolomiques pour la recherche de biomarqueurs en santé.
 :::
 
--   15h30-16h Silvia Bottini, **HIVE: a novel tool for Horizontal multi-omics Integration analysis using Variational AutoEncoders**
+-   15h30-16h Silvia Bottini, [**HIVE: a novel tool for Horizontal multi-omics Integration analysis using Variational AutoEncoders**](../../media/2023-gdrBiM/presentation-Bottini.pdf)
 
 ::: {.callout-note appearance="simple" icon="false"}
 Résumé : The Fragile X-Syndrome (FXS) represents the most common inherited form of intellectual disability and the first monogenic cause of Autism Spectrum Disorders (ASD). In most cases, this disease results from the absence of expression of the protein FMRP (Fragile X messenger ribonucleoprotein). FMRP is a multifunctional protein that affects numerous cellular pathways and interacts with many RNA and proteins. Consequently, although FXS is a monogenic disease, an effective strategy will rely on multi-therapy approaches. The development of these compensatory therapies requires first a broad identification of the cellular functions and molecular mechanisms regulated by FMRP as well as the evaluation and prioritization of the regulated pathways in the aetiology of FXS. While there is a plethora of multi-omics data performed and collected to evaluate the multiple perturbations of cellular homeostasis in this context, the integration of those remains challenging. For this purpose, we developed HIVE (Horizontal Integration analysis using Variational AutoEncoders (VAE)) and a novel custom Graph Convolutional Network (GCN) model. Hive analyses horizontally integrated multi-omics datasets. Briefly, we coupled the VAE that captures non-linear relationships and encoded them in the latent space, with a random forest regression (RFR) to allow the explainability. The custom GCN model that we developed comprises four layers, including two Graph Convolution layers and two Graph-SAGE layers, alternately. We applied HIVE on horizontally integrated omics data composed of 51 samples. We analysed the molecular composition of the latent space by using the contribution scores obtained with the RFR and we provided a comprehensive list of biological pathways in which FMRP is involved. Then, we applied our novel GCN model to identify new candidate genes associated with known genes involved in ASD. Altogether, our study shed light on novel roles in which FRMP is involved in the context of FXS.
@@ -74,11 +73,9 @@ Julie Aubert, Marie-Agnès Dillies, Christelle Hennequet-Antier, Guillemette Mar
 ### Informations pratiques
 
 ::: {.callout-caution appearance="simple" icon="false"}
-**Lieu** : La journée StatOmique se tiendra sur le site Inria, 40 avenue Halley, 59650 Villeneuve d'Ascq
-
-**Merci de vous présenter avec une pièce d'identité au bâtiment A en arrivant.**
+**Lieu** : La journée StatOmique s'est tenue sur le site Inria, 40 avenue Halley, 59650 Villeneuve d'Ascq
 
 **Comment venir ?** Le métro le plus proche est **4 Cantons Grand Stade (Villeneuve d'Ascq)**. La ligne 1 est directe depuis la gare Lille Flandres. Compter ensuite 15 minutes à pied. Pour préparer votre itinéraire en métro : <https://www.ilevia.fr/>
 
- ![](/media/2023-gdrBiM/plan_ acces_Inria.png)
+![](/media/2023-gdrBiM/plan_%20acces_Inria.png)
 :::
