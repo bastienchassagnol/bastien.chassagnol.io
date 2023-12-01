@@ -37,7 +37,7 @@ Dans l'esprit d'échange et de partage cher à StatOmique, les contributions pre
 Les supports sont disponibles [ici](#0).
 :::
 
--   12h15-12h30 Estelle Chatelain, **Intégration de données omiques sur une cohorte de patients obèses/diabétiques**, retour d'expériences d'utilisation de `MixOmics::DIABLO` et `rgcca`.
+-   12h15-12h30 Estelle Chatelain, [**Intégration de données omiques sur une cohorte de patients obèses/diabétiques**, retour d'expériences d'utilisation de `MixOmics::DIABLO` et `rgcca`.](../../media/2023-gdrBiM/presentation-Chatelain.pdf)
 
 ::: {.callout-note appearance="simple" icon="false"}
 Résumé : Nous avons appliqué `{mixOmics}` aux données de la cohorte de patients obèses ABOS. Pour 108 patients de cette cohorte, nous disposons des données transcriptomiques du foie issues de puces à ADN (\~23K variables), de données métabolomiques (\~1,4K variables) et de données lipidomiques (\~800 variables). Nous avons testé la méthode `DIABLO` de `{mixOmics}` et la version shiny du package `{RGCCA}` développée par l'IFB. Nous présenterons de manière informelle les différences de visualisation entre ces deux packages.
@@ -45,9 +45,8 @@ Résumé : Nous avons appliqué `{mixOmics}` aux données de la cohorte de patie
 
 -   **12h30 - 14h30 Pause déjeuner et Session posters**
 
-```{=html}
 <!-- -->
-```
+
 -   14h30-15h30 Etienne Thévenot (CEA, INRAE, Université Paris-Saclay, MetaboHUB), **Sciences des données métabolomiques pour la santé**
 
 ::: {.callout-note appearance="simple" icon="false"}
