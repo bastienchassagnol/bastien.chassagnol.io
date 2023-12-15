@@ -47,7 +47,7 @@ Résumé : Nous avons appliqué `{mixOmics}` aux données de la cohorte de patie
 
 <!-- -->
 
--   14h30-15h30 Etienne Thévenot (CEA, INRAE, Université Paris-Saclay, MetaboHUB), **Sciences des données métabolomiques pour la santé**
+-   14h30-15h30 Etienne Thévenot (CEA, INRAE, Université Paris-Saclay, MetaboHUB), [**Sciences des données métabolomiques pour la santé**](../../media/2023-gdrBiM/presentation-Thevenot.pdf)
 
 ::: {.callout-note appearance="simple" icon="false"}
 Résumé : Au cours des 25 dernières années, le couplage des approches de chimie analytique globale, par spectrométrie de masse notamment, et des sciences des données (mathématiques et informatique), a permis des avancées majeures dans la compréhension moléculaire des processus physiopathologiques impliquant le métabolisme (diabète, cardiologie, cancer).
