@@ -34,7 +34,7 @@ Dans l'esprit d'échange et de partage cher à StatOmique, les contributions pre
 -   10h15-12h15 Arnaud Gloaguen (Centre National de Recherche en Génomique Humaine, Institut François Jacob, CEA, Université Paris-Saclay), **Regularized Generalized Canonical Correlation Analysis (RGCCA), a flexible framework for multiblock (and multiway) data analysis: case study on a cohort of Major Depressive Disorder (MDD) patients and controls**.
 
 ::: {.callout-note appearance="simple" icon="false"}
-Les supports sont disponibles [ici](#0).
+Les supports sont disponibles [sur son compte github](https://github.com/AGloaguen/RGCCA4Statomique).
 :::
 
 -   12h15-12h30 Estelle Chatelain, [**Intégration de données omiques sur une cohorte de patients obèses/diabétiques**, retour d'expériences d'utilisation de `MixOmics::DIABLO` et `rgcca`.](../../media/2023-gdrBiM/presentation-Chatelain.pdf)
