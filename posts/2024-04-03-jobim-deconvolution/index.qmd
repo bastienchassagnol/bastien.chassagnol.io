@@ -1,0 +1,43 @@
+---
+title: New horizons in Deconvolving Bulk Transcriptomic Samples
+subtitle: Beyond bulk RNA-Seq
+lang: fr
+author: ''
+date: '2024-04-04'
+slug: journeegdrBIM
+categories: [symposium, conference]
+tags: [transcriptomique]
+image: "../../media/2024-jobim-deconvolution/bandeauJOBIM2024.png"
+---
+
+## Motivation
+
+Although bulk transcriptomic analyses have greatly contributed to a better understanding of complex diseases, their accuracy is usually hindered by the heterogeneous cellular composition of most biological samples. On the other hand, single-cell RNASeq analysis are expensive and time-consuming, while they suffer from a variety of intrinsic statistical limitations, notably a subsequent reduced depth and coverage of the RNA library.
+
+To address the limitations of these physical approaches, a vast array of computational deconvolution methods has been designed to automatically infer the characteristics of the distinct subcomponents that make up tissues. The most typical approach consists of inferring the relative abundancies of the cellular populations by leveraging reference samples of physically purified populations. Briefly, the deconvolution algorithms assume a linear relationship between the resulting, total 'bulk' expressions of transcripts (depicted as the observations in a regression framework), and the expression of transcripts in purified cell populations. The unknown cellular ratios to retrieve are subsequently the individual contributions of subpopulations to the “pool of transcripts” within each sample.
+
+However, gold-standard deconvolution algorithms suffer from a variety of common limitations. While a jungle of methods has been proposed, there’s no real consensus nor practical solution to solve the following critical issues: their underperformance at differentiating closely related or rare cell populations, the lack of consistency characterizing the outputs returned by these methods and the commonly observed discrepancy observed in real-word conditions between the ratios estimated through these numerical approaches, and the ones measured using physical methods, such as mass cytometry experiences.
+
+Finding potential solutions to these problems will promote new methodological advances that will have direct impact on the research of versatile and multi- faceted diseases, such as cancer or auto-immune diseases. Indeed, by enhancing the characterization of complex and critical tissues and niches, such as the tumoral micro-environment in a non-destructive fashion, these cutting-edge models would streamline the unravelling of the interactions occurring within a variety of cell populations, paramount to maintain the homeostasis of biological systems.
+
+### Keynotes
+
+|                                                                                                                                                                                                                                                          |
+|------------------------------------------------------------------------|
+| ![](/media/2024-jobim-deconvolution/verapancaldi.jpg){fig-align="left" width="146"} \|[Vera Pancaldi (INSERM, France)](https://www.crct-inserm.fr/annuaire/vera-pancaldi/) \|                                                                            |
+| ![](/media/2024-jobim-deconvolution/francescafinotello.jpg){width="146"} \| [Francesca Finotello (Institute of Molecular Biology and Digital Science Center (DiSC), University of Innsbruck, Austria)](https://computationalbiomedicinegroup.github.io/) |
+| ![](/media/2024-jobim-deconvolution/Lorenzo_Merotto.jpg){width="146"} \| Lorenzo Merotto                                                                                                                                                                 |
+| ![](/media/2024-jobim-deconvolution/krafta.jpg){width="146"} \| Agnieszka Kraft (Computational Epigenetics of Cancer, Swiss Institute of Bioinformatics)                                                                                                 |
+| ![](/media/2024-jobim-deconvolution/hugobarbot.jpeg){width="146"} \| Hugo Barbot (Institut Agro Rennes-Angers, France)                                                                                                                                   |
+
+### Program
+
+#### Organizers and scientific committee
+
+Julie Aubert, Bastien Chassagnol, Marie-Agnès Dillies, Christelle Hennequet-Antier, Emeline Perthame
+
+### Pratical information
+
+::: {.callout-caution appearance="simple" icon="false"}
+**Venue** : [Université Paul Sabatier, Toulouse, France](https://jobim2024.sciencesconf.org/resource/acces)
+:::
