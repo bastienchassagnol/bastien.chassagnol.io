@@ -1,0 +1,57 @@
+---
+title: Machine Learning and Statistics in Genomics and Metagenomics
+subtitle: Apprentissage automatique et statistiques en génomique et méta-génomique
+lang: fr
+author: ''
+date: '2024-04-04'
+slug: journeegdrBIM
+categories: [symposium, conference]
+tags: [machine learning]
+image: "../../media/2024-jobim-deconvolution/bandeauJOBIM2024.png"
+---
+
+## Summary
+
+Currently, a global initiative is underway to sequence the Earth's biodiversity, producing unprecedented volumes of genomic and metagenomic data. In this symposium, we aim to explore recent methodological advances in machine learning and statistics to exploit this data. The focus will be on improving our understanding of the genotype-phenotype relationship and the role of microbiota in human health and disease. We will address various challenges (inter- and intra-population/species variability, integration of compositional omics data) and look at the potential and limitations of large language models for biological sequences.
+
+### Résumé
+
+Actuellement, une initiative mondiale est en cours pour séquencer la biodiversité de la Terre, produisant des volumes de données génomiques et métagénomiques sans précédent. Dans ce symposium, notre objectif est d'explorer les récentes avancées méthodologiques en matière d'apprentissage automatique et de statistiques pour exploiter ces données. L'accent sera mis sur l'amélioration de notre compréhension de la relation génotype-phénotype et du rôle du microbiote dans la santé et les maladies humaines. Nous aborderons différents défis (variabilité inter et intra-population/espèces, intégration de données omiques compositionnelles) et nous nous pencherons sur le potentiel et les limites des grands modèles de langage pour les séquences biologiques.
+
+### Keynotes
+
+-   **M.Luz Calle**, University of Vic - University Central de Catalunya (Spain) 
+
+-   **Mafalda Dias**, Center for Genomic Regulation (Spain)  
+
+-   **Baptiste Ruiz**, IRISA, Université de Rennes, INRIA, CNRS (France) 
+
+-   **Jean-Daniel Zucker**, Sorbonne Université, IRD, UMMISCO (France)
+
+
+### Organizers and scientific committee
+
+**Julie Aubert**, Université Paris-Saclay, AgroParisTech, INRAE, UMR MIA Paris-Saclay, Paris.
+
+**Marie-Agnès Dillies**, Institut Pasteur, PF2 Plateforme Transcriptome et Epigénome, Paris.
+
+**Christelle Hennequet-Antier**, Université Paris-Saclay, INRAE, BioinfOmics, MIGALE Bioinformatics Facility, Jouy-en-Josas. 
+
+**Laurent Jacob**, Sorbonne Université, CNRS, IBPS, Laboratory of Computational and Quantitative Biology (LCQB), UMR 7238, Paris.
+
+**Flora Jay**, Université Paris-Saclay, CNRS, INRIA, LISN, Paris.
+
+**Elodie Laine**, Sorbonne Université, CNRS, IBPS, Laboratory of Computational and Quantitative Biology (LCQB), UMR 7238, Paris.
+
+**Raphaël Mourad**, MIAT, INRAE, 31320, Castanet-Tolosan, University of Toulouse, UPS, 31062, Toulouse.
+
+### Practical information
+
+::: {.callout-caution appearance="simple" icon="false"}
+**Venue** : [Université Paul Sabatier, Toulouse, France](https://jobim2024.sciencesconf.org/resource/acces)
+:::
+
+### Sponsors
+![](/media/LOGO-GDR_BIM_Vecto.png){width="398"}
+![](/media/2024-jobim-(meta)genomics-ML/lego.png){width="146"}
+![](/media/2024-jobim-(meta)genomics-ML/logo-iuf.png){width="200"}
