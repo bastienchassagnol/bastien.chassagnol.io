@@ -3,34 +3,83 @@ title: Machine Learning and Statistics in Genomics and Metagenomics
 subtitle: Apprentissage automatique et statistiques en génomique et méta-génomique
 lang: fr
 author: ''
-date: '2024-04-04'
+date: '2024-04-05'
 slug: journeegdrBIM
 categories: [symposium, conference]
 tags: [machine learning]
 image: "../../media/2024-jobim-deconvolution/bandeauJOBIM2024.png"
 ---
 
-## Summary
-
-Currently, a global initiative is underway to sequence the Earth's biodiversity, producing unprecedented volumes of genomic and metagenomic data. In this symposium, we aim to explore recent methodological advances in machine learning and statistics to exploit this data. The focus will be on improving our understanding of the genotype-phenotype relationship and the role of microbiota in human health and disease. We will address various challenges (inter- and intra-population/species variability, integration of compositional omics data) and look at the potential and limitations of large language models for biological sequences.
+Ce mini-symposium se tiendra dans le cadre de la conférence [JOBIM 2024](https://jobim2024.sciencesconf.org/). Il est co-organisé avec le GT [LEGO](https://gt-lego.cnrs.fr/), et soutenu par le [GDR BIMMM](https://www.gdr-bim.cnrs.fr/) et l’[IUF](https://www.iufrance.fr/).
 
 ### Résumé
 
 Actuellement, une initiative mondiale est en cours pour séquencer la biodiversité de la Terre, produisant des volumes de données génomiques et métagénomiques sans précédent. Dans ce symposium, notre objectif est d'explorer les récentes avancées méthodologiques en matière d'apprentissage automatique et de statistiques pour exploiter ces données. L'accent sera mis sur l'amélioration de notre compréhension de la relation génotype-phénotype et du rôle du microbiote dans la santé et les maladies humaines. Nous aborderons différents défis (variabilité inter et intra-population/espèces, intégration de données omiques compositionnelles) et nous nous pencherons sur le potentiel et les limites des grands modèles de langage pour les séquences biologiques.
 
-### Keynotes
+## Summary
 
--   **M.Luz Calle**, University of Vic - University Central de Catalunya (Spain) 
+Currently, a global initiative is underway to sequence the Earth's biodiversity, producing unprecedented volumes of genomic and metagenomic data. In this symposium, we aim to explore recent methodological advances in machine learning and statistics to exploit this data. The focus will be on improving our understanding of the genotype-phenotype relationship and the role of microbiota in human health and disease. We will address various challenges (inter- and intra-population/species variability, integration of compositional omics data) and look at the potential and limitations of large language models for biological sequences.
 
--   **Mafalda Dias**, Center for Genomic Regulation (Spain)  
+### Progamme
 
--   **Baptiste Ruiz**, IRISA, Université de Rennes, INRIA, CNRS (France) 
+- **16h30-17h** 
 
--   **Jean-Daniel Zucker**, Sorbonne Université, IRD, UMMISCO (France)
+![](/media/2024-jobim-(meta)genomics-ML/mafalda_dias.jpg){width=100} [Mafalda Dias](https://www.crg.eu/en/programmes-groups/dias-frazer-lab), Group Leader, Centre for Genomic Regulation, Espagne
+  
+
+**Modelling the genetic variation across the tree of life to learn about human disease**
+
+The genetic variation observed across the tree of life is the result of millions of years of evolutionary experiments and should therefore contain valuable information to link genotype to molecular function and ultimately to the genetic architecture of disease. Deep generative modelling is a powerful approach for describing the rich distribution of observed variation, and revealing the patterns of constraint in sequence space that must be preserved in order to maintain fitness. In this talk I will describe our recent progress in developing models to aid in genetic diagnosis and disease gene discovery. We propose a model which places variants on a proteome-wide scale of pathogenicity and show that in contrast to previous models, this now enables us to identify causal variants from whole exome data in rare disease patients. Using this model, we find evidence for over 100 novel genetic disorders.
+
+- **17h-17h30** 
+
+![](/media/2024-jobim-(meta)genomics-ML/PhotoJDZsmall.jpg){width=100} [Jean-Daniel Zucker](http://www-poleia.lip6.fr/~zucker/), DR, Sorbonne Université – IRD, France
+
+**Challenges of Learning Embeddings from (Raw) Metagenomics Data**
+
+The field of metagenomics offers a panoramic view of microbial communities’ genetic material, presenting both opportunities and challenges for computational biology. A primary hurdle in leveraging this data is the development of robust, informative embeddings that can capture the complex, high-dimensional relationships inherent in metagenomic samples. This is one of the objectives of the DeepIntegrOmics ANR project. Traditional machine learning approaches often struggle with the multiple-instance nature of metagenomic data, leading to embeddings that incompletely represent the underlying biological phenomena. This talk will discuss existing embeddings of Metagenomics data and explore how meta-learning can be an approach to the problem of finding good embeddings.
+
+- **17h30-18h**
+
+![](/media/2024-jobim-(meta)genomics-ML/baptiste_ruiz.png){width=100} [Baptiste Ruiz](https://www-dyliss.irisa.fr/team-members/baptiste-ruiz/), Doctorant, Université de Rennes – Inria – CNRS, France
+
+**SPARTA: a knowledge integration-based pipeline for disease state classification through the robust selection of inter-associated OTUs and functions**
+
+The field of personalized medicine has major stakes in using an individual’s microbiota as a descriptor of health. This raises the question of the interpretability of microbiotal signatures found for various diseases. To gain insight on this matter, we developed the SPARTA (Shifting Paradigms to Annotation Representation from Taxonomy to identify Archetypes) pipeline to highlight and interlink significantly discriminating Operational Taxonomic Units (OTUs) and metabolic functions. SPARTA relies on the integration of the information from the UniProt database concerning the gut microbiota’s functional annotation to OTU abundance data, and on Machine Learning classification. Iteration of this method can shrink the list of the microbiotas’ descriptors tenfold, both in terms of OTUs and metabolic functions. It also reveals that the shift to functional profiles comes at no significant cost to overall classification performance. Finally, we highlight how discriminant metabolic functions may arise from the aggregation of several low-abundance OTUs, giving visibility to these functions which are therefore not easily derivable from OTU-based approaches, marking them as potentially novel leads.
 
 
-### Organizers and scientific committee
+- **18h-18h30**
 
+![](/media/2024-jobim-(meta)genomics-ML/bdebate_uvic_malu_calle.jpg){width=100} [M. Luz Calle](https://mon.uvic.cat/bms/members/malu/), Professeure, Central University of Catalunya, Vic, Espagne 
+
+**`{coda4microbiome}`: predictive modeling with compositional covariates in microbiome studies**
+
+Prediction models play an important role in establishing the relationship between a set of covariates and an outcome of interest. Selecting the appropriate variables that are included in the model is often one of the most important and difficult parts of model building. This is even more challenging when the set of covariates form a composition and the goal is to identify which components are more associated with the outcome. This situation arises in many fields, for instance in microbiome studies where the interest is to identify which microorganisms are associated to a disease. 
+
+Microbiome data is compositional since raw abundances and the total number of sequences for each sample are not by itself informative, as they depend on technical issues such as laboratory sample preparation and sequencing depth. The total sum constraint of microbiome relative abundances induces important dependencies between the components. In this talk I will discuss the effects of ignoring the compositional structure of microbiome data and will present coda4microbiome, a new methodology for analyzing microbiome data within the Compositional Data Analysis (CoDA) framework. The algorithm relies on the analysis of log-ratios between pairs of components and variable selection is addressed through penalized regression on the “all-pairs log-ratio model”, the model containing all possible pairwise log-ratios. The algorithm is implemented for cross-sectional, longitudinal and survival studies.
+
+Une version `.pdf` du programme est disponible [ici](https://jobim2024.sciencesconf.org/data/1B_francais_symposium_LEGO_statOmique_2024_programme_update.pdf).
+
+
+### Informations pratiques
+
+Le mini-symposium aura lieu sur le site de la conférence JOBIM 2024.
+
+::: {.callout-tip appearance="simple" icon="false"}
+**Date** : **Jeudi 27 juin de 16h30 à 18h30**       
+
+**Comment venir ?** [Université Paul Sabatier, Toulouse, France](https://jobim2024.sciencesconf.org/resource/acces)
+
+L'accès sera réservé aux personnes inscrites à la conférence JOBIM 2024.
+:::
+
+### Sponsors
+
+![](/media/LOGO-GDR_BIM_Vecto.png){width="398"} ![](/media/2024-jobim-(meta)genomics-ML/lego.png){width="146"} ![](/media/2024-jobim-(meta)genomics-ML/logo-iuf.png){width="200"}
+
+### Organisation et comité scientifique
+
+::: {.callout-tip appearance="simple" icon="false"}
 **Julie Aubert**, Université Paris-Saclay, AgroParisTech, INRAE, UMR MIA Paris-Saclay, Paris.
 
 **Marie-Agnès Dillies**, Institut Pasteur, PF2 Plateforme Transcriptome et Epigénome, Paris.
@@ -44,14 +93,4 @@ Actuellement, une initiative mondiale est en cours pour séquencer la biodiversi
 **Elodie Laine**, Sorbonne Université, CNRS, IBPS, Laboratory of Computational and Quantitative Biology (LCQB), UMR 7238, Paris.
 
 **Raphaël Mourad**, MIAT, INRAE, 31320, Castanet-Tolosan, University of Toulouse, UPS, 31062, Toulouse.
-
-### Practical information
-
-::: {.callout-caution appearance="simple" icon="false"}
-**Venue** : [Université Paul Sabatier, Toulouse, France](https://jobim2024.sciencesconf.org/resource/acces)
 :::
-
-### Sponsors
-![](/media/LOGO-GDR_BIM_Vecto.png){width="398"}
-![](/media/2024-jobim-(meta)genomics-ML/lego.png){width="146"}
-![](/media/2024-jobim-(meta)genomics-ML/logo-iuf.png){width="200"}
