@@ -5,7 +5,7 @@ website:
   title: "StatOmique"
   
   navbar:
-    logo: media/LOGO-GDR_BIM_Vecto.png
+    logo: media/LOGO-GDR_BIMMM.png
     left:
  
       - href: index.qmd

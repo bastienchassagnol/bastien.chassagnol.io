@@ -8,7 +8,7 @@ Le groupe a été initié en 2008 et compte aujourd'hui plus de 100 abonnés d'h
 
 ### Groupes de travail connexes
 
--   [LEGO (GDR BiM)](https://gt-lego.cnrs.fr/) Machine learning pour la génomique
+-   [LEGO (GDR BiMMM)](https://gt-lego.cnrs.fr/) Machine learning pour la génomique
 
 ### Conférences récurrentes
 
