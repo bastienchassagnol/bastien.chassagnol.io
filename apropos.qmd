@@ -13,6 +13,8 @@ Il est co-animé par [Julie Aubert, INRAE, UMR MIA Paris-Saclay](https://www6.in
 
 ## Vous souhaitez nous rejoindre
 
-Vous êtes les bienvenus. N'hésitez pas à [nous contacter](mailto:julie%5Bdot%5Daubert@inrae.fr) pour vous abonner à notre liste de diffusion et vous tenir au courant des activités du groupe.
+Vous êtes les bienvenus. N'hésitez pas à nous rejoindre et vous abonner à notre liste de diffusion pour vous tenir au courant des activités du groupe.
 
-Vous pouvez aussi envoyer un mail à `sympa@agroparistech.fr` avec comme objet `SUBSCRIBE statomique votrePrénom VotreNom`.
+Pour rejoindre le gdr BiMMM et ses différents groupes de travail, c'est [ici](https://mygdr.hosted.lip6.fr/). Si votre laboratoire n'est pas encore inscrit, [contactez-nous](mailto:julie%5Bdot%5Daubert@inrae.fr) et nous ferons le nécessaire. 
+
+Pour vous abonner à notre liste de diffusion, vous pouvez [nous contacter](mailto:julie%5Bdot%5Daubert@inrae.fr) ou envoyer un mail à `sympa@agroparistech.fr` avec comme objet `SUBSCRIBE statomique votrePrénom VotreNom`.
