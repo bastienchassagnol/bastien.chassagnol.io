@@ -83,7 +83,10 @@ Le mini-symposium aura lieu sur le site de la conférence JOBIM 2024.
 
 **Venue** : [Université Paul Sabatier, Toulouse, France](https://jobim2024.sciencesconf.org/resource/acces)
 
-L'accès sera réservé aux personnes inscrites à la conférence JOBIM 2024.
+L'accès sur site sera réservé aux personnes inscrites à la conférence JOBIM 2024.
+
+Il sera également possible de suivre à distance moyennant une inscription en mode visio (10 euros).
+Plus d'informations sur les inscriptions [ici](<https://jobim2024.seminaire.inrae.fr/formulaires/inscription>).
 :::
 
 ### Sponsors
