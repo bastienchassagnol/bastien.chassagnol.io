@@ -48,10 +48,11 @@ The field of personalized medicine has major stakes in using an individual’s m
 
 -   **18h-18h30**
 
-[](/media/2024-jobim-(meta)genomics-ML/mberland.jpeg){width="100"} [M. Berland], Ingénieure de Recherche, INRAE, MetaGenopolis, France
+![](/media/2024-jobim-(meta)genomics-ML/mberland.jpg){width="100"} [M. Berland](https://scholar.google.com/citations?user=0UwkFsIAAAAJ&hl=fr), Resp. Opé. InfoBioStat, MetaGenoPolis, INRAE, Jouy-en-Josas, France
 
-** To be Announced **
+**Machine Learning for microbiome data: from network thinking to model predictions**
 
+The human gut microbiota, a complex community of microorganisms in the gastrointestinal tract, is pivotal to various aspects of human health, influencing metabolism, immune function, and even behavior. The ecological complexity of the gut microbiota is characterized by diverse microbial species interacting with each other, and network inference has emerged as a powerful unsupervised learning approach to decipher the intricate relationships within microbial communities. By representing microbial species as nodes and their interactions as edges, networks can identify microbial guilds—groups of co-occurring species that share functional traits or environmental niches. These models facilitate the exploration of community structure, revealing keystone species and critical interaction patterns that underpin ecosystem stability. On the other hand, supervised machine learning models, such as random forests, excel in handling complex and high-dimensional data, capturing intricate microbial patterns indicative of health or disease states while providing robust feature importance metrics. However, microbiome data present unique statistical challenges and many aspects can impact the performance of the models. This talk will review the state of the art, new methods, and open challenges in the field of (un)supervised machine learning for microbiome data, fostering the development of diagnostic tools and personalized recommendations.
 
 Une version `.pdf` du programme est disponible [ici](https://jobim2024.sciencesconf.org/data/1B_francais_symposium_LEGO_statOmique_2024_programme_update.pdf).
 
@@ -66,8 +67,7 @@ Le mini-symposium aura lieu sur le site de la conférence JOBIM 2024.
 
 L'accès sur site sera réservé aux personnes inscrites à la conférence JOBIM 2024.
 
-Il sera également possible de suivre à distance moyennant une inscription en mode visio (10 euros).
-Plus d'informations sur les inscriptions [ici](<https://jobim2024.seminaire.inrae.fr/formulaires/inscription>).
+Il sera également possible de suivre à distance moyennant une inscription en mode visio (10 euros). Plus d'informations sur les inscriptions [ici](https://jobim2024.seminaire.inrae.fr/formulaires/inscription).
 :::
 
 ### Sponsors
