@@ -20,7 +20,7 @@ Actuellement, une initiative mondiale est en cours pour séquencer la biodiversi
 
 Currently, a global initiative is underway to sequence the Earth's biodiversity, producing unprecedented volumes of genomic and metagenomic data. In this symposium, we aim to explore recent methodological advances in machine learning and statistics to exploit this data. The focus will be on improving our understanding of the genotype-phenotype relationship and the role of microbiota in human health and disease. We will address various challenges (inter- and intra-population/species variability, integration of compositional omics data) and look at the potential and limitations of large language models for biological sequences.
 
-### Progamme
+### Programme
 
 -   **16h30-17h**
 
