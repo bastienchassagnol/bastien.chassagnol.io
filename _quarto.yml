@@ -11,8 +11,6 @@ website:
       - href: index.qmd
         text: "Accueil"
       - href: animations.qmd  
-      - href: apropos.qmd
-        text: "CV"
         
 format:
   html:
