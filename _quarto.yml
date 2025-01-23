@@ -3,14 +3,32 @@ project:
 
 website:
   title: "Bastien CHASSAGNOL personal website"
+  description: "Collection of my projects intertweanings omic analysis and advanced statistical methods"
   
   navbar:
+    pinned: true
     logo: media/LOGO-GDR_BIMMM.png
     left:
- 
       - href: index.qmd
-        text: "Accueil"
-      - href: animations.qmd  
+        text: "Welcoming session"
+      - href: projects.qmd  
+        text: "Omics Projects"
+    search: 
+      location: navbar
+      type: textbox
+      
+    right:
+      - icon: folder-symlink
+        href: https://bastien.chassagnol.github.io/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/bastien-chassagnol-677b67140/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:chassagnolbastien@gmail.com"
+        
+# not re-run computations if source files have not been modified
+execute:
+  freeze: true
         
 format:
   html:
@@ -18,6 +36,9 @@ format:
      light: flatly
      dark: darkly
     toc: true
+    code-link: true
+    anchor-sections: true
+    footnotes-hover: true
 
 editor: source
 
