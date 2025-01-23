@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "StatOmique"
+  title: "Bastien CHASSAGNOL personal website"
   
   navbar:
     logo: media/LOGO-GDR_BIMMM.png
@@ -11,19 +11,16 @@ website:
       - href: index.qmd
         text: "Accueil"
       - href: animations.qmd  
-      - communaute.qmd  
-      - communications.qmd
       - href: apropos.qmd
-        text: "Organisation"
+        text: "CV"
         
 format:
   html:
     theme: 
      light: flatly
      dark: darkly
-    css: styles.css
     toc: true
 
-editor: visual
+editor: source
 
 
