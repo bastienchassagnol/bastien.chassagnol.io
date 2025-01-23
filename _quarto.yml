@@ -4,6 +4,10 @@ project:
 website:
   title: "Bastien CHASSAGNOL personal website"
   description: "Collection of my projects intertweanings omic analysis and advanced statistical methods"
+  # customise search engine
+  search: 
+    location: navbar
+    type: overlay
   
   navbar:
     pinned: true
@@ -13,9 +17,6 @@ website:
         text: "Welcoming session"
       - href: projects.qmd  
         text: "Omics Projects"
-    search: 
-      location: navbar
-      type: textbox
       
     right:
       - icon: folder-symlink
