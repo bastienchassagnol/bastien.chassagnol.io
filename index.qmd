@@ -1,5 +1,18 @@
 ---
-title: "StatOmique"
+about:
+  template: jolla
+  id: about-block
+  image: "assets/img/bastien-jobim.jpeg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/bastienchassagnol
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/bastien-chassagnol-677b67140/
+    - icon: envelope
+      text: Email
+      href: "mailto:chassagnolbastien@gmail.com"  
 ---
 
 ![](media/LOGO-GDR_BIMMM.png){width="1014"}
